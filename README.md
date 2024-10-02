@@ -11,6 +11,10 @@ This project serves as the final requirement for the Object-Oriented Programming
 ### Scope and limitations
 The general intent of the program is to focus on the nutrition of the students and the accuracy of the financial report of the school CanOS will only provide its healthy food services to all of the students and the financial reports for the school canteen staff in Technological Institute of the Philippines – QC campus at Cubao, Quezon City.
 
+### Project Languages and Utilities used
+- Python (PyQt5)
+- Visual Studio Code
+
 ### Menu UI
 ![ordering-system](https://github.com/user-attachments/assets/302b60bf-072b-4388-b0f2-76555112a13e)
 
